@@ -1,0 +1,3 @@
+framework module PlayingCard_iOS {
+    header "PlayingCard_iOS-Swift.h"
+}

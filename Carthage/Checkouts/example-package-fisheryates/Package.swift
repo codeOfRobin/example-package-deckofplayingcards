@@ -11,9 +11,5 @@
 import PackageDescription
 
 let package = Package(
-    name: "DeckOfPlayingCards",
-    dependencies: [
-        .Package(url: "https://github.com/codeOfRobin/example-package-fisheryates.git", majorVersion: 2),
-        .Package(url: "https://github.com/codeOfRobin/example-package-playingcard.git", majorVersion: 3),
-    ]
+    name: "FisherYates"
 )
